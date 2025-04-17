@@ -1,6 +1,7 @@
 import { View, Text, Image, TouchableOpacity } from 'react-native'
 import React, { useState } from 'react'
 import { icons } from '../constants'
+import { images } from '../constants'
 import { ResizeMode, Video } from 'expo-av'
 
 const VideoCard = ({ video: { title, thumbnail, video,
@@ -54,7 +55,7 @@ creator: { username, avatar}} }) => {
             activeOpacity={0.7}
             onPress={() => setPlay(true)}
             className="w-full h-60 rounded-xl mt-3
-            relative justify-center items-center" 
+            relative justify-center items-center bg-black-100" 
             >
                 <Image
                 source={{ uri: thumbnail }}
