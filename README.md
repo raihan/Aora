@@ -1,10 +1,10 @@
 # Aora - Video Sharing App
 <div align="center">
-<img width=170 src="https://github.com/user-attachments/assets/afd5f3e2-35ba-4490-bd08-6f3297fbaeab" alt="Signup" />
-<img width=170 src="https://github.com/user-attachments/assets/1be4f690-97f8-4296-a7eb-decdc0fe92a9" alt="Login" />
-<img width=170 src="https://github.com/user-attachments/assets/d3a4f0b6-e9e4-4deb-aa3e-915bbee66840" alt="Feed" />
-<img width=170 src="https://github.com/user-attachments/assets/a5abe720-43b1-4d54-9f1b-750a37fd1624" alt="Upload video" />
-<img width=170 src="https://github.com/user-attachments/assets/a0449a5d-29bc-430c-86bc-4379f0d1fc05" alt="Profile" />
+<img width=165 src="https://github.com/user-attachments/assets/afd5f3e2-35ba-4490-bd08-6f3297fbaeab" alt="Signup" />
+<img width=165 src="https://github.com/user-attachments/assets/1be4f690-97f8-4296-a7eb-decdc0fe92a9" alt="Login" />
+<img width=165 src="https://github.com/user-attachments/assets/d3a4f0b6-e9e4-4deb-aa3e-915bbee66840" alt="Feed" />
+<img width=165 src="https://github.com/user-attachments/assets/a5abe720-43b1-4d54-9f1b-750a37fd1624" alt="Upload video" />
+<img width=165 src="https://github.com/user-attachments/assets/a0449a5d-29bc-430c-86bc-4379f0d1fc05" alt="Profile" />
 
 <br>
 </div>
